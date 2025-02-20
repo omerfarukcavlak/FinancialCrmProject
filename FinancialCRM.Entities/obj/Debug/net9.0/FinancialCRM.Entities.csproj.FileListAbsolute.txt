@@ -1,0 +1,12 @@
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Entities\bin\Debug\net9.0\FinancialCRM.Entities.deps.json
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Entities\bin\Debug\net9.0\FinancialCRM.Entities.dll
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Entities\bin\Debug\net9.0\FinancialCRM.Entities.pdb
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Entities\obj\Debug\net9.0\FinancialCRM.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Entities\obj\Debug\net9.0\FinancialCRM.Entities.AssemblyInfoInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Entities\obj\Debug\net9.0\FinancialCRM.Entities.AssemblyInfo.cs
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Entities\obj\Debug\net9.0\FinancialCRM.Entities.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Entities\obj\Debug\net9.0\FinancialCRM.Entities.sourcelink.json
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Entities\obj\Debug\net9.0\FinancialCRM.Entities.dll
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Entities\obj\Debug\net9.0\refint\FinancialCRM.Entities.dll
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Entities\obj\Debug\net9.0\FinancialCRM.Entities.pdb
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Entities\obj\Debug\net9.0\ref\FinancialCRM.Entities.dll

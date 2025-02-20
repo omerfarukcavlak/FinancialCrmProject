@@ -1,0 +1,16 @@
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\bin\Debug\net9.0\FinancialCRM.Core.deps.json
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\bin\Debug\net9.0\FinancialCRM.Core.dll
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\bin\Debug\net9.0\FinancialCRM.Core.pdb
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\bin\Debug\net9.0\FinancialCRM.Entities.dll
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\bin\Debug\net9.0\FinancialCRM.Entities.pdb
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\obj\Debug\net9.0\FinancialCRM.Core.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\obj\Debug\net9.0\FinancialCRM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\obj\Debug\net9.0\FinancialCRM.Core.AssemblyInfoInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\obj\Debug\net9.0\FinancialCRM.Core.AssemblyInfo.cs
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\obj\Debug\net9.0\FinancialCRM.Core.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\obj\Debug\net9.0\FinancialCRM.Core.sourcelink.json
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\obj\Debug\net9.0\Financia.0D8A518F.Up2Date
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\obj\Debug\net9.0\FinancialCRM.Core.dll
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\obj\Debug\net9.0\refint\FinancialCRM.Core.dll
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\obj\Debug\net9.0\FinancialCRM.Core.pdb
+C:\Users\CAVLAK\Desktop\Projects\MuratYücedağ\CSharpEgitimKampi\FinancialCRM\FinancialCRM\FinancialCRM.Core\obj\Debug\net9.0\ref\FinancialCRM.Core.dll
